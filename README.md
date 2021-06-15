@@ -71,30 +71,35 @@ The author of the tutorial above is [Roger Dudler](https://twitter.com/rogerdudl
 
 1. Follow closely, [this 9 step neural network construction tutorial by Eden Au](https://towardsdatascience.com/machine-learning-in-python-numpy-neural-network-in-9-steps-eafd0db25906).
 2. **Intuitive understanding** of basic machine learning components, such as fundamental artificial neural network structures, is important for **maintaining the desire** to continue to pursue the field of artificial intelligence/machine learning/data science. If you still desire a more intuitive description of the basic artificial neural networks described in item 1 above, read the text descriptions and watch the video content found in my book "**Artificial Neural Networks for Kids**". (Get the book from [this Amazon url](https://www.amazon.com/dp/B077FX57ZZ), or get it free from [this Research-Gate url](https://www.researchgate.net/publication/321162382_Artificial_Neural_Nets_For_Kids)).
-3. Try to construct a basic artificial neural network from scratch, without the usage of any machine learning library. (You can follow this guidline of mine [here](https://its2019.iis-international.org/wp-content/uploads/ITS-2019-Tutorial.pdf) or [here](https://drive.google.com/file/d/1PqCvorCsCiPqVkYZPjDpiIk41NOfGz-c/view?usp=sharing), taken from my presentation/programming tutorial at [ITS 2019](https://its2019.iis-international.org/program/selected-workshops-and-tutorials/).)
+3. (Optional) Try to construct a basic artificial neural network from scratch, without the usage of any machine learning library. (You can follow this guidline of mine [here](https://its2019.iis-international.org/wp-content/uploads/ITS-2019-Tutorial.pdf) or [here](https://drive.google.com/file/d/1PqCvorCsCiPqVkYZPjDpiIk41NOfGz-c/view?usp=sharing), taken from my presentation/programming tutorial at [ITS 2019](https://its2019.iis-international.org/program/selected-workshops-and-tutorials/).)
 4. Upload this code to your github account. Name it "My-Code_For-MLJI-Week-1", or something similar.
+5. Let's do [my live artificial neural network programming session](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions)! Grab a [copy of bluej](https://www.bluej.org/download/release-notes.html) or use python to follow along to replicate my basic neural network code as I write it out! 
+
+* Even after you have done this entire course, practice this basic neural network programming session every 6 to 8 months on your own [(as I do here)](https://github.com/JordanMicahBennett/NEURAL_NETWORK_PRACTICE). More practice will grant you more intuition and grasp of Neural Networks/Machine Learning overall.
+
 
 ## Week 2 - Machine Learning Library Practice
 1. Try to grind through [this 3 hour course on Tensorflow](https://www.youtube.com/watch?v=DFKHh7_zzJc&t=126s). Tensorflow is a popular machine learning library. You can start with this, or resort to other libraries like MXNET. 
 
 * You can use any one of these libraries for the subsequent weeks. Note that Tensorflow has the support of Google, so it may be wise to choose this library. MXNET also has the support of Microsoft, so that is not a bad option either.
 
+
 ## Week 3 - Convolutional Artificial Neural Networks
 
 1. Watch [Convolution Neural Networks - explained!](https://www.youtube.com/watch?v=m8pOnJxOcqY) by Code Emporium.
-2. Write a Convolutional Neural Network (using any ML library like Tensorflow), based on video above.
+2. Implement a Convolutional Neural Network (using any ML library like Tensorflow; [See example](https://tfhub.dev/tensorflow/faster_rcnn/inception_resnet_v2_640x640/1)), based on video above, or otherwise, to solve some problem. Include a document including your name, and 1 page describing the problem you solved.
 3. Upload this code to your github account. Name it "My-Code_For-MLJI-Week-3", or something similar.
 
-## Week 4 - Recurrent Artificial Neural Networks
+## Week 4 - Recurrent Artificial Neural Networks or Transformers
 
 1. Watch [Recurrent Neural Networks - explained!](https://www.youtube.com/watch?v=yZv_yRgOvMg) by Code Emporium.
-2. Write a Recurrent Neural Neural Network (using any ML library like Tensorflow), based on video above.
+2. Implement a Transformer, or Recurrent Neural Neural Network (using any ML library like Tensorflow; [See example](https://tfhub.dev/tensorflow/bert_en_uncased_L-12_H-768_A-12/3)), based on video above, or otherwise, to solve some problem. Include a document including your name, and 1 page describing the problem you solved.
 3. Upload this code to your github account. Name it "My-Code_For-MLJI-Week-4", or something similar.
 
 ## Week 5 - Generative Adversarial Neural Networks
 1. Watch [Generative Adversarial Networks - FUTURISTIC & FUN AI!](https://www.youtube.com/watch?v=O8LAi6ksC80) by Code Emporium.
 2. Watch ["Make a Face Generative Adversarial Network in 15 MINUTES!"](https://www.youtube.com/watch?v=qbW-X6iW5jE) by Discover Artificial Intelligence.
-3. Write a Generative Adversarial Neural Network (using any ML library like Tensorflow), based on video above.
+3. Implement a Generative Adversarial Neural Network (using any ML library like Tensorflow; [See example](https://tfhub.dev/google/lite-model/magenta/arbitrary-image-stylization-v1-256/fp16/prediction/1)), based on video above, or otherwise, to solve some problem. Include a document including your name, and 1 page describing the problem you solved.
 4. Upload this code to your github account. Name it "My-Code_For-MLJI-Week-5", or something similar.
 
 ## Week 6 - Deep Reinforcement Learning
@@ -106,14 +111,14 @@ The author of the tutorial above is [Roger Dudler](https://twitter.com/rogerdudl
 
 3. Optionally, read [my 6 minute introduction to deep q learning](https://medium.com/@jordanmicahbennett/a-simple-8-minute-deepmind-deep-q-learning-schematic-in-input-process-outcome-cycle-laymen-terms-bb6916ccddb8). Deep Q learning is a variant of reinforcement learning.
 
-4. Upload this code to your github account. Name it "My-Code_For-MLJI-Week-6", or something similar.
+4. Upload this code with screenshots of your experiments, to your github account. Name it "My-Code_For-MLJI-Week-6", or something similar.
+
+# Week 6 End
+
+Note: Please try to complete the 1st 5 chapters of [the Deep Learning Book](http://www.deeplearningbook.org) by Yoshua Bengio et al. (Bengio is one of the winners of the winners of the 2018 Turing Award, a Nobel-Prize like award for Artificial Intelligence. See the CBS News Report on [the aforesaid 2018 Turing Award](https://www.youtube.com/watch?v=BWIV5xQoYbA)).
 
 
-## Third Semester/Credits
-
-Note: Please try to complete [the Deep Learning Book](http://www.deeplearningbook.org) by Yoshua Bengio et al. (Bengio is one of the winners of the winners of the 2018 Turing Award, a Nobel-Prize like award for Artificial Intelligence. See the CBS News Report on [the aforesaid 2018 Turing Award](https://www.youtube.com/watch?v=BWIV5xQoYbA)).
-
-This course was desgined by [Jordan Micah Bennett](https://www.linkedin.com/in/programminggodjordan/).
+This semester concludes with a core review of mathematical notations ranging from Linear Algebra, to Numerical Computation. No code shall be uploaded for this last review.
 
 
 
