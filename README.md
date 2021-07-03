@@ -17,7 +17,7 @@ This curriculum consists of 3 main parts and one final optional part:
 
 ![Alt Text](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum-Type-B_Programmers_TierD/blob/master/data/down.png)
 
-# First Semester, Part A (Estimated Completion Duration: Roughly 1 day) ~ Brush up on the python syntax:
+# First Semester, Part A (Estimated Completion Duration: Roughly 30 minutes) ~ Brush up on the python syntax:
 
 1. Do the lessons found on [this page](https://www.tutorialspoint.com/python/python_basic_syntax.htm).
 
