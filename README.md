@@ -127,7 +127,7 @@ This semester concludes with a core review of mathematical notations ranging fro
 # R.E.D. → Rapid Experimentation Delivery of Ai apps
 What do you do when you want to hire a driver for a new driving task?
 1. Train a non-driver from scratch, i.e. get Liscence, Train for 4 years on road.
-2. Hire a seasoned person who had already been driven with few errors for 4 years.
+2. Hire a seasoned person who had already driven with few errors for 4 years.
 * I.e. We can say the driver is pre-trained for driving, and time to train this driver for a driving task will be far less.
 
 In a similar way, to solve a problem amenable to Ai use, it is optimal to find a pre-trained Ai model, typically alreeady trained on expensive Ai gpus for several hours (that can cost up to 3000 usd per unit or per month), like rtx 3090s up to V100s.
@@ -137,7 +137,7 @@ In the case of Covid19 diagnosis for eg, since Covid19 is identified as a form o
 2. Integrate model best AUC into your pipeline. (Like a user interface built on top of your Ai model to be user friendly)
 3. The above is a similar approach taken by large companies like Google, who employ the usage of [Auto-ML](https://en.wikipedia.org/wiki/Automated_machine_learning) to help select best models.
 * In your case, you manually explore the landscape of available pretrained models by literally trying each of them out.
-* Key is to idenify ones that clearly specify their accuracy/senstivity/specificity for many cases. (Eg of resource for pre-trained models found on Github and Kaggle)
+* Key is to identify ones that clearly specify their accuracy/senstivity/specificity for many cases. (Eg of resource for pre-trained models found on Github and Kaggle)
 
 
 ![Alt Text](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage/blob/master/data/tick.png)
