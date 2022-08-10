@@ -83,13 +83,13 @@ we will construct a basic artificial neural network from scratch together, witho
 
 Grab a [copy of bluej](https://www.bluej.org/download/release-notes.html) or use python to follow along to replicate my basic neural network code as I write it out!
  
-5. Upload this code to your github account. Name it "[My-Code_For-ASTIS-Week-1](https://github.com/g0dEngineer/My-Code_For-ASTIS-Week-1/)", or something similar.
+5. Upload this code to your github account. Name it "My-Code_For-MLJI-Week-1", or something similar.
 
 
 ![Alt Text](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainProgrammerPage/blob/master/data/exclamation_mark.png)
 
 * Even after you have done this entire course, practice this basic neural network programming session every 6 to 8 months on your own [(as I do here)](https://github.com/JordanMicahBennett/NEURAL_NETWORK_PRACTICE). More practice will grant you more intuition and grasp of Neural Networks/Machine Learning overall.
-* As [discussed prior](https://github.com/g0dEngineer/ASTIS#astis-multi-pathwaydynamic-lines-of-pedagogy-divide-and-conquer), neural networks are [universal problem solvers](https://en.wikipedia.org/wiki/Universal_approximation_theorem), and therein, learning to construct them is an optimal way to equip one's mind with core ML ingredients.
+* As [discussed prior](https://github.com/JordanMicahBennett/Machine-Learning-Jamaica-Institute_Curriculum_MainPage#why-artificial-neural-network-focussed), neural networks are [universal problem solvers](https://en.wikipedia.org/wiki/Universal_approximation_theorem), and therein, learning to construct them is an optimal way to equip one's mind with core ML ingredients.
 
 # Spaced learning/ [See evidence of spaced learning on nature journal](https://www.nature.com/articles/nrn.2015.18)
 
@@ -107,7 +107,7 @@ Grab a [copy of bluej](https://www.bluej.org/download/release-notes.html) or use
 
 1. Watch [Convolution Neural Networks - explained!](https://www.youtube.com/watch?v=m8pOnJxOcqY) by Code Emporium.
 2. Implement a Convolutional Neural Network (using any ML library like Tensorflow; [See example](https://tfhub.dev/tensorflow/faster_rcnn/inception_resnet_v2_640x640/1)), based on video above, or otherwise, to solve some problem. Include a document including your name, and 1 page describing the problem you solved.
-3. Upload this code to your github account. Name it "[My-Code_For-ASTIS-Week-3](https://github.com/g0dEngineer/My-Code_For-ASTIS-Week-3)", or something similar.
+3. Upload this code to your github account. Name it "My-Code_For-MLJI-Week-3", or something similar.
 
 ___
 Example cases by Universal Ai Diploma Lead Lecturer/Instructor: 
@@ -123,7 +123,7 @@ Example cases by Universal Ai Diploma Lead Lecturer/Instructor:
 
 1. Watch [Recurrent Neural Networks - explained!](https://www.youtube.com/watch?v=yZv_yRgOvMg) by Code Emporium.
 2. Implement a Transformer, or Recurrent Neural Neural Network (using any ML library like Tensorflow; [See example](https://tfhub.dev/tensorflow/bert_en_uncased_L-12_H-768_A-12/3)), based on video above, or otherwise, to solve some problem. Include a document including your name, and 1 page describing the problem you solved.
-3. Upload this code to your github account. Name it "[My-Code_For-ASTIS-Week-4](https://github.com/g0dEngineer/My-Code_For-ASTIS-Week-4/)", or something similar.
+3. Upload this code to your github account. Name it "My-Code_For-MLJI-Week-4", or something similar.
 
 _____
 1. Alternative: [Create an assistant using free IBM Watson Cloud. This technology uses recurrent neural networks](https://www.ibm.com/cloud/learn/recurrent-neural-networks). Sign up for [IBM now for free](https://www.ibm.com/cloud).
@@ -144,7 +144,7 @@ Note: The item above unlike Alternative 1, does not require the use of visa card
 1. Watch [Generative Adversarial Networks - FUTURISTIC & FUN AI!](https://www.youtube.com/watch?v=O8LAi6ksC80) by Code Emporium.
 2. Watch ["Make a Face Generative Adversarial Network in 15 MINUTES!"](https://www.youtube.com/watch?v=qbW-X6iW5jE) by Discover Artificial Intelligence.
 3. Implement a Generative Adversarial Neural Network (using any ML library like Tensorflow; [See example](https://tfhub.dev/google/lite-model/magenta/arbitrary-image-stylization-v1-256/fp16/prediction/1)), based on video above, or otherwise, to solve some problem. Include a document including your name, and 1 page describing the problem you solved.
-4. Upload this code to your github account. Name it "[My-Code_For-ASTIS-Week-5](https://github.com/g0dEngineer/My-Code_For-ASTIS-Week-5)", or something similar.
+4. Upload this code to your github account. Name it "My-Code_For-MLJI-Week-5", or something similar.
 
 Alternative:
 
@@ -168,7 +168,7 @@ Example cases by Lead Universal Ai Diploma Instructor/Lecturer:
 
 3. Optionally, read [my 6 minute introduction to deep q learning](https://medium.com/@jordanmicahbennett/a-simple-8-minute-deepmind-deep-q-learning-schematic-in-input-process-outcome-cycle-laymen-terms-bb6916ccddb8). Deep Q learning is a variant of reinforcement learning.
 
-4. Upload this code with screenshots of your experiments, to your github account. Name it "[My-Code_For-ASTIS-Week-6](https://github.com/g0dEngineer/My-Code_For-ASTIS-Week-6/)", or something similar.
+4. Upload this code with screenshots of your experiments, to your github account. Name it "My-Code_For-MLJI-Week-6", or something similar.
 
 ___
 Example case by Lead Universal Ai Diploma Instructor/Lecturer: 
